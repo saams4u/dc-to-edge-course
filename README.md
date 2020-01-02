@@ -11,11 +11,13 @@ Upon completion, you have the option to receive an Intel® AI Course Completion 
 
 **Topics include:**
 
-An overview of Intel’s AI portfolio with an emphasis on solving deep learning problems Dataset preparation for model consumption – 
-including preprocessing and data augmentation techniques Decision metrics for choosing a framework and network (topology) How to train 
-and deploy deep learning models using the Intel AI portfolio By the end of this course, you will have practical knowledge of: Preparing
-a dataset for model consumption Training a deep learning model using TensorFlow* with Intel optimizations Deploying on the CPU, Integrated
-Graphics and Intel® Neural Compute Stick 2 (Intel® NCS2) using the Intel® Distribution of OpenVINO™ Toolkit
+- An overview of Intel’s AI portfolio with an emphasis on solving deep learning problems 
+- Dataset preparation for model consumption – including preprocessing and data augmentation techniques Decision metrics for choosing a framework and network (topology) 
+- How to train and deploy deep learning models using the Intel AI portfolio 
+- By the end of this course, you will have practical knowledge of: Preparing
+a dataset for model consumption 
+- Training a deep learning model using TensorFlow* with Intel optimizations 
+- Deploying on the CPU, Integrated Graphics and Intel® Neural Compute Stick 2 (Intel® NCS2) using the Intel® Distribution of OpenVINO™ Toolkit
 
 **Prerequisites:**
 
